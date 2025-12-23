@@ -622,15 +622,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Star History
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
 <div align="center">
 
-**Built with ❤️ for AI-powered moderation and safer online interactions**
 
 [⬆ Back to Top](#-toxic-comment-classification--stabilization-system)
 
